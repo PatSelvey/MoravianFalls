@@ -1,0 +1,95 @@
+/* CSS Document */
+
+a.nav-link:link {font: bold 12px Verdana, Arial, Helvetica, sans-serif; color: #F8EAD2; text-decoration: none}
+
+a.nav-link:visited {font: bold 12px Verdana, Arial, Helvetica, sans-serif; color: #F8EAD2; text-decoration: none}
+
+a.nav-link:hover {
+	font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+	color: #321912;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-color: #F8EAD2;
+}
+
+a.nav-link:active {
+font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+	color: #321912;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-color: #B75D2A;
+	}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #271200;
+	line-height: 19px;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #301B09;
+	margin-top: 0px;
+	line-height: 24px;
+}
+p {
+}
+h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	color: #301B09;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: -10px;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #C2B093;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: -1px;
+	margin-bottom: -1px;
+}
+h4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #301B09;
+	margin-top: 0px;
+}
+
+a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BA3400;
+	text-decoration: none;
+}
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BA3400;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FF6600;
+	text-decoration: none;
+}
+.specialbody {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #271200;
+	line-height: 19px;
+	font-weight: bold;
+}
+.textform {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #301B09;
+	line-height: 14px;
+}
